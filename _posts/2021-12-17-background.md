@@ -1,6 +1,6 @@
 ## Background
 
-Hi there, I am Jason from Malaysia, currently working in Taiwan.
+Hi there, I am Jason from Malaysia, currently working as a postdoc in Taiwan.
 My background is geotechnical/civil engineering and geophysical exploration, and an amateur maker who integrated hobbies into main projects.
 Originally tinkered with some arduino unos and nanos, I found that commercially available solutions are either too expensive or too proprietary for full integration.
 Thanks to the open source communinity in arduino and raspi, I managed to interface a lot of monitoring hardwares (TDR, pressure sensors, inclinometers) to extremely flexible arduino/raspi.
