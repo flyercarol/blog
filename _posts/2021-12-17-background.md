@@ -1,7 +1,8 @@
 ## Background
 
 Hi there, I am Jason from Malaysia, currently working as a postdoc in Taiwan.
-My background is geotechnical/civil engineering and geophysical exploration, and an amateur maker who integrated hobbies into main projects.
+My background is geotechnical/civil engineering and geophysical exploration.
+I am also an amateur maker who loves to integrate my hobbies into ongoing projects to make life better.
 
 Originally tinkered with some arduino unos and nanos, I found that commercially available solutions are either too expensive or too proprietary for full integration.
 Thanks to the open source communinity in arduino and raspi, I managed to interface a lot of monitoring hardwares (TDR, pressure sensors, inclinometers) to extremely flexible arduino/raspi.
@@ -13,6 +14,7 @@ Starting from breadboarding and soldering through-hole board PCBs, I have curren
 
 Below is my CV, in case you are interested, cheers!
 
+---
 # Research
 
 My doctoral research focused on broadband dielectric spectroscopy using advanced time domain reflectometry (TDR) analyses in geotechnical and geo-environmental monitoring. Through implementing self-referencing signal processing approach on conventional TDR methods and model-free non-linear optimization, the dielectric spectrum of materials can be measured accurately, rapidly, efficiently, cost-effectively both in laboratory and field environment, which only requires minimal calibration effort and has high adaptation robustness to survey conditions. This technique is implemented in soil dielectric spectroscopy to identify the effects on electrical properties from dry density, specific surface area and other factors.
@@ -24,25 +26,22 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 ---
 # Education
 
-2014 - 2019 **PhD in Civil Engineering**
-
-National Chiao Tung University
-
+|2014 - 2019 **PhD in Civil Engineering**|
+|---| 
+|National Chiao Tung University
 _Dissertation : &quot;Advanced Time Domain Reflectometry Analyses for Flexible Dielectric Spectroscopy&quot;_
-
 _Advisor : Professor Chih-Ping Lin, Department Chair, NCTU_
+_Research group : Geo-Imaging and Geo-Nerve Research Group, Disaster Prevention and Water Environment Research Center_|
 
-_Research group : Geo-Imaging and Geo-Nerve Research Group, Disaster Prevention and Water Environment Research Center_
 
-2013 - 2014 **MSc in Civil Engineering** (Direct Pursuit of PhD Program)
+|2013 - 2014 **MSc in Civil Engineering** (Direct Pursuit of PhD Program)|
+|---| 
+|National Chiao Tung University|
 
-National Chiao Tung University
-
-2010 - 2013 **BEng (Hons) in Civil Engineering**
-
-The Hong Kong Polytechnic University
-
-_Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal Control Junctions&quot;_
+|2010 - 2013 **BEng (Hons) in Civil Engineering**|
+|---| 
+|The Hong Kong Polytechnic University
+_Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal Control Junctions&quot;_|
 
 
 
