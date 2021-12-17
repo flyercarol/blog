@@ -85,6 +85,7 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 
 
 # Conferences
+
 |2021 
 |:---|
 |Lin, C.-P., Ngui, Y. J., Wu, I.-L., Chung, C.-C., and Lin, W.-T. (2021). High Precision and Range of Concentration Measurement for Sediment-Water Mixture based on Time Domain Reflectometry. 2021 13th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA), 1–5. https://doi.org/10/gmsx3t
@@ -126,6 +127,7 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 
 ---
 # Projects
+
 |Date|Projects|
 |:---|---|
 |2020-2021|
@@ -195,35 +197,38 @@ Mentor and advice research works of lab members at both masters (12) and undergr
 ---
 # Working Experience
 
-2019-2021 Postdoctoral Researcher, Disaster Prevention and Water Environment Research Centre, NYCU
-
-2014-2019 Lab Student Leader, Geo-Imaging and Geo-Nerve Research Group, NCTU
-
-2012-2013 Group Leader, The Hong Kong Polytechnic University (HKPU) CSE Design Project
-
-2012 Assistant Engineer, Huang Hsiang Construction Corporation
-
-2011-2013 Student Helper, HKPU International Affairs Office (IAO)
-
-2011,2013 Leader of PolyU GSC Student Ambassador, HKPU IAO
+|Date|Experience|
+|:---|---|
+|2019-2021  |Postdoctoral Researcher, Disaster Prevention and Water Environment Research Centre, NYCU
+|2014-2019  |Lab Student Leader, Geo-Imaging and Geo-Nerve Research Group, NCTU
+|2012-2013  |Group Leader, The Hong Kong Polytechnic University (HKPU) CSE Design Project
+|2012       |Assistant Engineer, Huang Hsiang Construction Corporation
+|2011-2013  |Student Helper, HKPU International Affairs Office (IAO)
+|2011,2013  |Leader of PolyU GSC Student Ambassador, HKPU IAO
 
 ---
 # Skills
 
-Languages
-- English
+|Languages|
+|---|
+|- English
 - Mandarin
 - Malay
 - Cantonese
-- Hakka
+- Hakka|
 
-Computational knowledge
+|Coding programs
+|---|
+|MATLAB, Python, LabVIEW, Visual Studio Code, Git
 
-- Coding programs
-  - MATLAB, Python, LabVIEW, Visual Studio Code, Git
-- Geotechnical / Geophysical Analysis
-  - AGI EarthImager, Comsol Multiphysics, SurfSeis, RGLDip, DIPS, Slope2000, PLATE, ETABS, IBM SPSS, Maple, Mathematica
-- CAD / GIS
-  - AutoCAD, Google Earth Pro, QGIS, Tecplot, Surfer, KiCAD, easyEDA, Grapher
-- IoT related
-  - Software-hardware integration, Raspberry Pi, Arduino, LoRa, NB-IoT, wireless sensor network, customized low powered data-logging device
+
+|Geotechnical / Geophysical Analysis
+|---|
+|AGI EarthImager, Comsol Multiphysics, SurfSeis, RGLDip, DIPS, Slope2000, PLATE, ETABS, IBM SPSS, Maple, Mathematica
+
+|CAD / GIS
+|---|
+|AutoCAD, Google Earth Pro, QGIS, Tecplot, Surfer, KiCAD, easyEDA, Grapher
+|IoT related
+|---|
+|Software-hardware integration, Raspberry Pi, Arduino, LoRa, NB-IoT, wireless sensor network, customized low powered data-logging device
