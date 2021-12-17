@@ -15,7 +15,7 @@ Starting from breadboarding and soldering through-hole board PCBs, I have curren
 If you are interested in collaboration or wants some help in starting your own PCB, feel free to drop me an email.
 
 Below is my CV, just in case, cheers!
-![pic](../images/20200818_s.jpg)
+![profile_pic](..\images\20200818_s.jpg)
 
 ---
 # Research
@@ -130,7 +130,7 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 
 |Year|Details
 |:---|---
-|2020-2021|Low-powered TDR based slope monitoring in deep-seated gravitational slope deformation (DSGSD) sites, with regional wireless sensor network (WSN) deployment for ground water level and soil moisture content monitoring.<ul><li>Jiasian District, Kaohsiung</li><li>FanFan, Ilan</li><li>FengLin, Hualien</li><li>Ruisui, Hualien</li><li>Wulu, Taitung</li></ul>
+|2020-2021|Low-powered TDR based slope monitoring in deep-seated gravitational slope deformation (DSGSD) sites, with regional wireless sensor network (WSN) deployment for ground water level and soil moisture content monitoring.{::nomarkdown}<ul><li>Jiasian District, Kaohsiung</li><li>FanFan, Ilan</li><li>FengLin, Hualien</li><li>Ruisui, Hualien</li><li>Wulu, Taitung</li></ul>{:/}
 |2020       |Energy generation monitoring in microhydropower site in Zhudong
 |2019-2020  |Multi-channel analysis of surface waves (MASW) survey for dam safety inspection in Hushan Reservoir, Taiwan
 |2016-2020  |TDR and inclinometer based slope monitoring in multiple potential deep-seated landslide sites <ul><li>Alishan National Scenic Area, Chiayi, Taiwan</li><li>Fanfan, Ilan</li><li>Liu Gui, Kaohsiung</li><li>Lu Chang, Miaoli</li><li>Jufen, New Taipei City</li></ul>
