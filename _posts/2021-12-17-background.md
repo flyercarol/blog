@@ -15,7 +15,7 @@ Starting from breadboarding and soldering through-hole board PCBs, I have curren
 If you are interested in collaboration or wants some help in starting your own PCB, feel free to drop me an email.
 
 Below is my CV, just in case, cheers!
-![profile_pic](..\images\20200818_s.jpg)
+![profile_pic](/images/20200818_s.jpg)
 
 ---
 # Research
@@ -186,14 +186,14 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 |---|
 |MATLAB, Python, LabVIEW, Visual Studio Code, Git
 
-|Geotechnical / Geophysical Analysis
-|---|
-|AGI EarthImager, Comsol Multiphysics, SurfSeis, RGLDip, DIPS, Slope2000, PLATE, ETABS, IBM SPSS, Maple, Mathematica
+  |Geotechnical / Geophysical Analysis
+  |---|
+  |AGI EarthImager, Comsol Multiphysics, SurfSeis, RGLDip, DIPS, Slope2000, PLATE, ETABS, IBM SPSS, Maple, Mathematica
 
-|CAD / GIS
-|---|
-|AutoCAD, Google Earth Pro, QGIS, Tecplot, Surfer, KiCAD, easyEDA, Grapher
+  |CAD / GIS
+  |---|
+  |AutoCAD, Google Earth Pro, QGIS, Tecplot, Surfer, KiCAD, easyEDA, Grapher
 
-|IoT related
-|---|
-|Software-hardware integration, Raspberry Pi, Arduino, LoRa, NB-IoT, wireless sensor network, customized low powered data-logging device
+  |IoT related
+  |---|
+  |Software-hardware integration, Raspberry Pi, Arduino, LoRa, NB-IoT, wireless sensor network, customized low powered data-logging device
