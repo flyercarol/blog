@@ -49,14 +49,14 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 
 # Publications
 # Journals
-|2021| 
+
+|2021 
 |:---|
 |Chung, C.-C., Lin, C.-P., Ngui, Y. J., Lin, W.-C., and Yang, C.-S. (2021). Improved technical guide from physical model tests for TDR landslide monitoring. Engineering Geology, 106417. https://doi.org/10/gnj73t
 |Kang, K.-H., Chao, W.-A., Yang, C.-M., Chung, M.-C., Kuo, Y.-T., Yeh, C.-H., Liu, H.-C., Lin, C.-H., Lin, C.-P., Liao, J.-J., Chang, J.-M., Ngui, Y. J., Chen, C.-H., and Tai, T.-L. (2021). Rigidity Strengthening of Landslide Materials Measured by Seismic Interferometry. Remote Sensing, 13(14), 2834. https://doi.org/10/gmsnxt
 |陳建新、鍾明劍、譚志豪、魏殷哲、康耿豪、趙韋安、戴東霖(2021)。崩積層非飽和水力參數對大規模崩塌穩定分析之影響。中興工程，151，39–49。(EI)
 
-
-|2020| 
+|2020
 |:---|
 |林志平、魏殷哲、王凱、林婉婷、吳采容、鍾志忠 (2020) ，地工電磁波導監測技術之新近發展，地工技術，166期。(EI)
 |林志平、吳采容、吳柏林、劉興昌、魏殷哲、林俊宏 (2020)，近地表地球物理方法之簡介、挑戰及地工應用的調適，地工技術，165期，頁7-18。(EI)
