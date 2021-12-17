@@ -20,7 +20,7 @@ Below is my CV, just in case, cheers!
 ---
 # Research
 
-My doctoral research focused on broadband dielectric spectroscopy using advanced time domain reflectometry (TDR) analyses in geotechnical and geo-environmental monitoring. Through implementing self-referencing signal processing approach on conventional TDR methods and model-free non-linear optimization, the dielectric spectrum of materials can be measured accurately, rapidly, efficiently, cost-effectively both in laboratory and field environment, which only requires minimal calibration effort and has high adaptation robustness to survey conditions. This technique is implemented in soil dielectric spectroscopy to identify the effects on electrical properties from dry density, specific surface area and other factors.
+My doctoral research focused on broadband dielectric spectroscopy using advanced time domain reflectometry (TDR) analyses in geotechnical and geo-environmental monitoring. Through implementing self-referencing signal     processing approach on conventional TDR methods and model-free non-linear optimization, the dielectric spectrum of materials can be measured accurately, rapidly, efficiently, cost-effectively both in laboratory and field environment, which only requires minimal calibration effort and has high adaptation robustness to survey conditions. This technique is implemented in soil dielectric spectroscopy to identify the effects on electrical properties from dry density, specific surface area and other factors.
 
 I completed my doctoral degree in civil engineering with specialization in geotechnical engineering and engineering geophysics in Oct 2019. I pursued my doctoral studies under the supervision of Prof. Chih-Ping Lin in the Department of Civil Engineering, NCTU. During my years in the Geo-Imaging and Geo-Nerve Research Group, I led numerous engineering geophysical field surveys and managed projects from planning, data analysis, intercommunication, and report presentation to authorities. I have experience in electromagnetic, electrical and seismic geophysical methods, including time domain reflectometry, ground penetrating radar, electrical resistivity tomography, seismic refraction, seismic reflection and surface seismic field tests for engineering scale. During my five years of doctoral studies, I led my field team to perform numerous in-situ borehole geophysics all over Taiwan, including borehole PS-logging, borehole TDR, borehole electrical-logging, downhole seismic tests, borehole televiewer (acoustic and optical), and borehole electrical resistivity tomography (BERT).
 
@@ -29,22 +29,22 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 ---
 # Education
 
-|2014 - 2019 **PhD in Civil Engineering**|
+|2014 - 2019 : **PhD in Civil Engineering**|
 |---| 
 |National Chiao Tung University
-|_Dissertation : &quot;Advanced Time Domain Reflectometry Analyses for Flexible Dielectric Spectroscopy&quot;_
+|_Dissertation : "Advanced Time Domain Reflectometry Analyses for Flexible Dielectric Spectroscopy"_
 |_Advisor : Professor Chih-Ping Lin, Department Chair, NCTU_
 |_Research group : Geo-Imaging and Geo-Nerve Research Group, Disaster Prevention and Water Environment Research Center_
 
 
-|2013 - 2014 **MSc in Civil Engineering** (Direct Pursuit of PhD Program)|
+|2013 - 2014 : **MSc in Civil Engineering** (Direct Pursuit of PhD Program)|
 |---| 
 |National Chiao Tung University|
 
-|2010 - 2013 **BEng (Hons) in Civil Engineering**|
+|2010 - 2013 : **BEng (Hons) in Civil Engineering**|
 |---| 
 |The Hong Kong Polytechnic University
-|_Final Year Project: &quot;Taxi Drivers'  Responses in Dilemma Zone at Signal Control Junctions&quot;_
+|_Final Year Project: "Taxi Drivers'  Responses in Dilemma Zone at Signal Control Junctions"_
 
 ---
 # Publications
@@ -63,24 +63,24 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 
 |2019 
 |:---|
-|Lin, C.-H., Lin, C.-P., Ngui, Y. J., Wang, H., Wu, P.-L., He, G.-J., and Liu, H.-C. (2019). &quot;Diameter assessment of soilcrete column using in-hole electrical resistivity tomography.&quot; _**Géotechnique**_, 1-13.
-|Ngui, Y., Lin, C.-P., and Wu, T.-J. (2019). &quot;Dielectric Spectroscopy Using Dual Reflection Analysis of TDR Signals.&quot; _**Sensors**_, 19(6), 1299.
+|Lin, C.-H., Lin, C.-P., Ngui, Y. J., Wang, H., Wu, P.-L., He, G.-J., and Liu, H.-C. (2019). "Diameter assessment of soilcrete column using in-hole electrical resistivity tomography." _**Géotechnique**_, 1-13.
+|Ngui, Y., Lin, C.-P., and Wu, T.-J. (2019). "Dielectric Spectroscopy Using Dual Reflection Analysis of TDR Signals." _**Sensors**_, 19(6), 1299.
 
 |2018 
 |:---|
-|Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2018). &quot;Multiple Reflection Analysis of TDR Signal for Complex Dielectric Spectroscopy.&quot; _**IEEE Transactions on Instrumentation and Measurement**_, 67(11), 2649-2661.
+|Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2018). "Multiple Reflection Analysis of TDR Signal for Complex Dielectric Spectroscopy." _**IEEE Transactions on Instrumentation and Measurement**_, 67(11), 2649-2661.
 
 |2017
 |:---|
-|Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2017). &quot;A novel TDR signal processing technique for measuring apparent dielectric spectrum.&quot; _**Measurement Science and Technology**_, IOP Publishing, 28(1), 015501.
+|Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2017). "A novel TDR signal processing technique for measuring apparent dielectric spectrum." _**Measurement Science and Technology**_, IOP Publishing, 28(1), 015501.
 
 |2016
 |:---|
-|Chung, C.-C., Lin, C.-P., Ngui, Y.-J., Wang, K., and Lin, C.-H. (2016). &quot;Laboratory Evaluation of Soil-Nailing Quality Inspection by an Improved TDR Method.&quot; _**Journal of GeoEngineering**_, 11(3), 143-149. (EI)
+|Chung, C.-C., Lin, C.-P., Ngui, Y.-J., Wang, K., and Lin, C.-H. (2016). "Laboratory Evaluation of Soil-Nailing Quality Inspection by an Improved TDR Method." _**Journal of GeoEngineering**_, 11(3), 143-149. (EI)
 
 |2015 
 |:---|
-|Chung, C.-C., Lin, C.-S. C., Wang, K., Lin, C.-S. C., and Ngui, Y. J. (2015). &quot;Improved TDR Method for Quality Control of Soil-Nailing Works.&quot; _**Journal of Geotechnical and Geoenvironmental Engineering**_, American Society of Civil Engineers, 142(1), 1-4.
+|Chung, C.-C., Lin, C.-S. C., Wang, K., Lin, C.-S. C., and Ngui, Y. J. (2015). "Improved TDR Method for Quality Control of Soil-Nailing Works." _**Journal of Geotechnical and Geoenvironmental Engineering**_, American Society of Civil Engineers, 142(1), 1-4.
 
 ---
 # Conferences
@@ -95,24 +95,24 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 
 |2019
 |:---|
-|Lin, C.-P., Lin, C.-H., Ngui, Y. J., Wang H., Wu P.L., and Liu H.-C. (2019), &quot;Jet-Grouting Column Diameter Measurement Using In-hole Electrical Resistivity Tomography&quot;. _5th International Conference on Engineering Geophysics_, Al Ain, United Arab Emirates.
+|Lin, C.-P., Lin, C.-H., Ngui, Y. J., Wang H., Wu P.L., and Liu H.-C. (2019), "Jet-Grouting Column Diameter Measurement Using In-hole Electrical Resistivity Tomography". _5th International Conference on Engineering Geophysics_, Al Ain, United Arab Emirates.
 |Ngui, Y. J., and Lin, C.-P. (2019). Complex dielectric spectroscopy of soil using multiple reflection analysis on TDR signal. _The 16th Asian Regional Conference on Soil Mechanics and Geotechnical Engineering (16ARC)_, Taipei, Taiwan.
 |Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2019, May). Multiple Reflection Analysis of TDR Signal for Complex Dielectric Spectroscopy. _2019 IEEE I2MTC - International Instrumentation and Measurement Technology Conference_, Auckland, New Zealand.
-|Ngui, Y. J., and Lin, C.-P. (2019). &quot;Broadband Complex Dielectric Characterization of Soils by Time Domain Reflectometry.&quot; _Proceedings of the 8th International Congress on Environmental Geotechnics Volume 1_, L. Zhan, Y. Chen, and A. Bouazza, eds., Springer Singapore, Singapore, 731-738.
+|Ngui, Y. J., and Lin, C.-P. (2019). " Broadband Complex Dielectric Characterization of Soils by Time Domain Reflectometry."  _Proceedings of the 8th International Congress on Environmental Geotechnics Volume 1_, L. Zhan, Y. Chen, and A. Bouazza, eds., Springer Singapore, Singapore, 731-738.
 
 |2018
 |:---|
-|Lin, C.-P., and Ngui, Y. J. (2018). &quot;Robust Extraction of Frequency-Dependent Dielectric Properties from Time Domain Reflectometry.&quot; _2018 12th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA)_, IEEE, Lublin, Poland, 1-9.
+|Lin, C.-P., and Ngui, Y. J. (2018). "Robust Extraction of Frequency-Dependent Dielectric Properties from Time Domain Reflectometry." _2018 12th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA)_, IEEE, Lublin, Poland, 1-9.
 
 |2017
 |:---|
-|Wang, H., Lin, C.-P., and Ngui, Y. J. (2017). &quot;Countermeasures for the symmetric effect in the borehole-to-surface ERT survey.&quot; _International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 October 2017_, SEG Global Meeting Abstracts, Society of Exploration Geophysicists, Al Ain, United Arab Emirates, 208-211.
-|Lin, C.-P., Ngui\*, Y. J., and Lin, C.-H. (2017). &quot;TDR Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil.&quot; _International Geophysical Conference, Qingdao, China, 17-20 April 2017_, Society of Exploration Geophysicists and Chinese Petroleum Society, Qingdao, China, 993-996.
-|Ngui, Y. J., Lin, C.-P., and Lin, C.-H. (2017). &quot;Time Domain Reflectometry Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil.&quot; _SAGEEP 2017_, Environmental and Engineering Geophysical Society, Denver, Colorado, 50.
+|Wang, H., Lin, C.-P., and Ngui, Y. J. (2017). "Countermeasures for the symmetric effect in the borehole-to-surface ERT survey." _International Conference on Engineering Geophysics, Al Ain, United Arab Emirates, 9-12 October 2017_, SEG Global Meeting Abstracts, Society of Exploration Geophysicists, Al Ain, United Arab Emirates, 208-211.
+|Lin, C.-P., Ngui\*, Y. J., and Lin, C.-H. (2017). "TDR Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil." _International Geophysical Conference, Qingdao, China, 17-20 April 2017_, Society of Exploration Geophysicists and Chinese Petroleum Society, Qingdao, China, 993-996.
+|Ngui, Y. J., Lin, C.-P., and Lin, C.-H. (2017). "Time Domain Reflectometry Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil." _SAGEEP 2017_, Environmental and Engineering Geophysical Society, Denver, Colorado, 50.
 
 |2016
 |:---|
-|Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2016). &quot;TDR Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil.&quot; _The 8th Asian Joint Symposium on Geotechnical and Geoenvironmental Engineering Program_, Tainan, Taiwan, 171-175.
+|Lin, C.-P., Ngui, Y. J., and Lin, C.-H. (2016). "TDR Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil." _The 8th Asian Joint Symposium on Geotechnical and Geoenvironmental Engineering Program_, Tainan, Taiwan, 171-175.
 
 |2015
 |:---|
@@ -137,7 +137,7 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 |2017-2020  |In-situ TDR soil moisture content monitoring using phase velocity analysis (PVA) and multiple reflection analysis (MRA) [5 projects]
 |2017-2020  |Research and development of reservoir capacity sustainability technology and its application
 |2017       |Development of in-situ measurement system for broadband electrical properties of contaminated soils (TDR MRA based dielectric spectroscopy)
-|2015-2021  |Borehole geophysics projects for geotechnical and geological investigation <ul><li>Electrical logging [5 projects]</li><li>Suspension PS-logging [7 projects]</li><li>Borehole optical and acoustic televiewer [6 projects]</li><li>Borehole flowmeter [1 project]</li></ul>
+|2015-2021  |Borehole geophysics projects for geotechnical and geological investigation {::nomarkdown}<ul><li>Electrical logging [5 projects]</li><li>Suspension PS-logging [7 projects]</li><li>Borehole optical and acoustic televiewer [6 projects]</li><li>Borehole flowmeter [1 project]</li></ul>{:/}
 |2015-2020  |TDR based suspended sediment concentration (SSC) monitoring technique development for sediment transport and management in reservoir
 |2015-2016  |TDR based SSC monitoring technique development for offshore sediment transport monitoring
 |2014-2016  |In-situ TDR dielectric spectroscopy in contaminated site with active groundwater remediation operation for remediation efficiency assessment [3 projects]
@@ -152,10 +152,10 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 - 2014-2018 : **Teaching Assistant and Lab Supervisor**
   - Soil Mechanics Laboratory, National Chiao Tung University
   - Deliver lectures on the experimental tests for undergraduate level soil mechanics laboratory, guide and supervise other TAs to teach undergraduates regarding the mechanisms and operations of soil mechanics laboratory, handle the procurement and miscellaneous duties required to run the soil mechanics laboratory.
-- 2016-2019 **Pre-PhD Teaching Assistant**
+- 2016-2019 : **Pre-PhD Teaching Assistant**
   - Engineering Mathematics (I) , National Chiao Tung University
   - Provide supplementary lectures and TA sessions to undergraduate level engineering mathematics (I) on ODE, PDE, series, Laplace transformation. Substitute for lecturer to deliver lectures in case of absence.
-- 2015-2019 **Co-instructing masters and undergraduate student**
+- 2015-2019 : **Co-instructing masters and undergraduate student**
   - National Chiao Tung University (NCTU)
   - Mentor and advice research works of lab members at both masters (12) and undergraduate (5) levels.
 
@@ -182,7 +182,7 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 |Cantonese
 |Hakka
 
-|Coding programs
+|Coding
 |---|
 |MATLAB, Python, LabVIEW, Visual Studio Code, Git
 
