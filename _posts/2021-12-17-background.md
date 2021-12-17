@@ -1,8 +1,8 @@
 ## Background
 
 Hi there, I am Jason from Malaysia, currently working as a postdoc in Taiwan.
-My background is geotechnical/civil engineering and geophysical exploration.
-I am also an amateur maker who loves to integrate my hobbies into ongoing projects to make life better.
+I travel across Taiwan to deploy and actively maintain slope monitoring stations, perform geophysical exploration (surface and borehole) works at engineering scale.
+Despite my major in geotechnical engineering, I am also an amateur maker who loves to integrate my hobbies into ongoing projects to make life better for everyone.
 
 Originally tinkered with some arduino unos and nanos, I found that commercially available solutions are either too expensive or too proprietary for full integration.
 Thanks to the open source community in arduino and raspi, I managed to interface a lot of monitoring hardwares (TDR, pressure sensors, inclinometers) to extremely flexible arduino/raspi.
