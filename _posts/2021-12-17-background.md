@@ -29,9 +29,9 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 |2014 - 2019 **PhD in Civil Engineering**|
 |---| 
 |National Chiao Tung University
-_Dissertation : &quot;Advanced Time Domain Reflectometry Analyses for Flexible Dielectric Spectroscopy&quot;_
-_Advisor : Professor Chih-Ping Lin, Department Chair, NCTU_
-_Research group : Geo-Imaging and Geo-Nerve Research Group, Disaster Prevention and Water Environment Research Center_|
+|_Dissertation : &quot;Advanced Time Domain Reflectometry Analyses for Flexible Dielectric Spectroscopy&quot;_
+|_Advisor : Professor Chih-Ping Lin, Department Chair, NCTU_
+|_Research group : Geo-Imaging and Geo-Nerve Research Group, Disaster Prevention and Water Environment Research Center_
 
 
 |2013 - 2014 **MSc in Civil Engineering** (Direct Pursuit of PhD Program)|
@@ -41,14 +41,10 @@ _Research group : Geo-Imaging and Geo-Nerve Research Group, Disaster Prevention 
 |2010 - 2013 **BEng (Hons) in Civil Engineering**|
 |---| 
 |The Hong Kong Polytechnic University
-_Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal Control Junctions&quot;_|
-
-
+|_Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal Control Junctions&quot;_
 
 ---
-
 # Publications
-# Journals
 
 |2021 
 |:---|
@@ -83,7 +79,7 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 |:---|
 |Chung, C.-C., Lin, C.-S. C., Wang, K., Lin, C.-S. C., and Ngui, Y. J. (2015). &quot;Improved TDR Method for Quality Control of Soil-Nailing Works.&quot; _ **Journal of Geotechnical and Geoenvironmental Engineering** _, American Society of Civil Engineers, 142(1), 1-4.
 
-
+---
 # Conferences
 
 |2021 
@@ -119,7 +115,8 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 |:---|
 |林志平、林俊宏、宋泊翰、劉興昌、魏殷哲 (2015) 。應用時域反射儀技術於河川底泥厚度之調查。中華民國大地工程學會, _中華民國第十六屆大地工程學術研討會_, 高雄。(優良論文獎)
 
-# Journal reviewer
+---
+# Reviewer
 
 - Measurement Science and Technology
 - Measurement
@@ -128,12 +125,10 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 ---
 # Projects
 
-|Date|Projects|
-|:---|---|
 |2020-2021|
--  Low-powered TDR based slope monitoring in deep-seated gravitational slope deformation (DSGSD) sites, with regional wireless sensor network (WSN) deployment for ground water level and soil moisture content monitoring.
-  - Jiasian District, Kaohsiung
-  - FanFan, Ilan
+|---|
+|Low-powered TDR based slope monitoring in deep-seated gravitational slope deformation (DSGSD) sites, with regional wireless sensor network (WSN) deployment for ground water level and soil moisture content monitoring.
+|- Jiasian District, Kaohsiung <br>- FanFan, Ilan
   - FengLin, Hualien
   - Ruisui, Hualien
   - Wulu, Taitung
@@ -211,16 +206,15 @@ Mentor and advice research works of lab members at both masters (12) and undergr
 
 |Languages|
 |---|
-|- English
-- Mandarin
-- Malay
-- Cantonese
-- Hakka|
+|English
+|Mandarin
+|Malay
+|Cantonese
+|Hakka
 
 |Coding programs
 |---|
 |MATLAB, Python, LabVIEW, Visual Studio Code, Git
-
 
 |Geotechnical / Geophysical Analysis
 |---|
@@ -229,6 +223,7 @@ Mentor and advice research works of lab members at both masters (12) and undergr
 |CAD / GIS
 |---|
 |AutoCAD, Google Earth Pro, QGIS, Tecplot, Surfer, KiCAD, easyEDA, Grapher
+
 |IoT related
 |---|
 |Software-hardware integration, Raspberry Pi, Arduino, LoRa, NB-IoT, wireless sensor network, customized low powered data-logging device
