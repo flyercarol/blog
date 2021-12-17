@@ -125,10 +125,12 @@ Upon graduation from my doctoral studies, I have been working as a postdoctoral 
 ---
 # Projects
 
-|2020-2021|
+|2020-2021
 |---|
 |Low-powered TDR based slope monitoring in deep-seated gravitational slope deformation (DSGSD) sites, with regional wireless sensor network (WSN) deployment for ground water level and soil moisture content monitoring.
 |- Jiasian District, Kaohsiung <br>- FanFan, Ilan
+
+
   - FengLin, Hualien
   - Ruisui, Hualien
   - Wulu, Taitung
