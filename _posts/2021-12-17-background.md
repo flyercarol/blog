@@ -50,6 +50,12 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 
 # Publications
 # Journals
+|2021| 
+|:---|
+|Chung, C.-C., Lin, C.-P., Ngui, Y. J., Lin, W.-C., and Yang, C.-S. (2021). Improved technical guide from physical model tests for TDR landslide monitoring. Engineering Geology, 106417. https://doi.org/10/gnj73t
+|Kang, K.-H., Chao, W.-A., Yang, C.-M., Chung, M.-C., Kuo, Y.-T., Yeh, C.-H., Liu, H.-C., Lin, C.-H., Lin, C.-P., Liao, J.-J., Chang, J.-M., Ngui, Y. J., Chen, C.-H., and Tai, T.-L. (2021). Rigidity Strengthening of Landslide Materials Measured by Seismic Interferometry. Remote Sensing, 13(14), 2834. https://doi.org/10/gmsnxt
+|陳建新、鍾明劍、譚志豪、魏殷哲、康耿豪、趙韋安、戴東霖(2021)。崩積層非飽和水力參數對大規模崩塌穩定分析之影響。中興工程，151，39–49。(EI)
+
 
 |2020| 
 |:---|
@@ -80,6 +86,9 @@ _Final Year Project: &quot;Taxi Drivers&#39; Responses in Dilemma Zone at Signal
 
 
 # Conferences
+|2021 
+|:---|
+|Lin, C.-P., Ngui, Y. J., Wu, I.-L., Chung, C.-C., and Lin, W.-T. (2021). High Precision and Range of Concentration Measurement for Sediment-Water Mixture based on Time Domain Reflectometry. 2021 13th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA), 1–5. https://doi.org/10/gmsx3t
 
 |2020 
 |:---|
