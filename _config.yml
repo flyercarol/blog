@@ -3,7 +3,7 @@ title: "FC Lab"
 author: "Jason Ngui"
 # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 description: "Connecting geotechnical and geophysical towards meaningful interpretation." 
-url: "https://flyercarol.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: 'https://flyercarol.github.io/blog' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 
 # Email / Social media user names used by the minima theme:
