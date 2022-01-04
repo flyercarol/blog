@@ -11,3 +11,8 @@ title: Blog Archive
     {% endfor %}
   </ul>
 {% endfor %}
+
+Test here:
+baseurl
+{{page.baseurl}}
+<a href="{{ post.url }}">{post_url}</a>
