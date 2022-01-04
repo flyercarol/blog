@@ -17,3 +17,8 @@ Test here:
 baseurl
 {{page.baseurl}}
 <a href="{{ post.url }}">{post_url}</a>
+<a href="{{ site.url }}">{site_url}</a>
+
+<a href="{{ page.url | relative_url }}">{relative_url}</a>
+
+<a href="{{ page.url | absolute_url }}">{absolute_url}</a>
