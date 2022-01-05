@@ -87,4 +87,4 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="IoX1kJOR"></script>
 
-<div class="fb-comments" data-href="{{ page.url | relative_url }}" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="{{ page.url }}" data-width="" data-numposts="5"></div>
