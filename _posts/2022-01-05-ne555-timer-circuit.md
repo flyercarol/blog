@@ -83,8 +83,3 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 			- for tH = 30-120, R1=120/.7939/1000/1e-6/1e3 = 37-151k
 			- for tL = 540-1800, R2=1800/.693/1000/1e-6/1e6 = 0.78-2.6M
 			- commonly seen is 1M RM065
-
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="IoX1kJOR"></script>
-
-<div class="fb-comments" data-href="{{ page.url }}" data-width="" data-numposts="5"></div>
