@@ -37,7 +37,7 @@ hr {
 }
 
 .post_navi .post_navi-arrow {
-  position: relative;
+  position: absolute;
   top: 50%;
   transform: translateY(-50%);
   font-size: 2.5em;
