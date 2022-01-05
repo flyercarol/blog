@@ -12,7 +12,22 @@ That is the thing, by using the SQW pin of the RTC as the power trigger, a PMOS 
 So, in the end, I divert to using NE555 instead, just like incorporating the external timing relay to the board
 Just in case you are unfamiliar with NE555, it seems like it is the most used IC component in the early days of EE field, so it has been around for a long long time.
 
-[NE555](https://en.m.wikipedia.org/wiki/555_timer_IC)
+[Wikipedia - NE555](https://en.m.wikipedia.org/wiki/555_timer_IC)
+
+# Components
+- NE555
+- N-type MOSFET (NMOS) or BJT
+- Variable resistor (pot)
+- Diode 1N5819 / 1N4007
+- Capacitor
+
+# Wiring
+- Basically we are using NE555 as a timing device, which sends a trigger signal to the MOSFET/BJT.
+- Timing is controlled by capacitor, resistor and diode
+  - Capacitor stores the charges to be released
+  - Resistor spends/dissipates the charges, or limit the charging speed of capacitor
+  - Diode allows the ON time to be smaller than OFF time ($t_ON < t_OFF$)
+    - If diode is not included in the circuits, this would form an astable circuit with ON time > OFF time
 
 # Implementation
 - Takes power up to 12 V, try placing this in front of buck converter and RS485
