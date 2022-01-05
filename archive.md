@@ -25,5 +25,3 @@ end here
     {% endfor %}
   </ul>
 {% endfor %}
-
-<!-- <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title } ,check here}</a></li> -->
