@@ -3,20 +3,6 @@ layout: page
 title: Blog Archive
 ---
 
-Test here:
-baseurl
-{{page.baseurl}}
-<a href="{{ post.url }}">{post_url}</a>
-
-<a href="{{ site.url }}">{site_url}</a>
-relative
-<a href="{{ page.url | relative_url }}">{relative_url}</a>
-absollute
-<a href="{{ page.url | absolute_url }}">{absolute_url}</a>
-
-end here
-
-
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>

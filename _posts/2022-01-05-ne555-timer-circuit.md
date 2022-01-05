@@ -1,6 +1,3 @@
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="IoX1kJOR"></script>
-
 # NE555 timer circuit as external relay
 Everyone must have come across power budget issue when trying to deploy our project in non-mains/utility power environment.
 Solar powered is usually the first thing that came into mind, but the next one is how to reduce the overall power consumption.
@@ -14,6 +11,7 @@ That is the thing, by using the SQW pin of the RTC as the power trigger, a PMOS 
 
 So, in the end, I divert to using NE555 instead, just like incorporating the external timing relay to the board
 Just in case you are unfamiliar with NE555, it seems like it is the most used IC component in the early days of EE field, so it has been around for a long long time.
+
 [NE555](https://en.m.wikipedia.org/wiki/555_timer_IC)
 
 # Implementation
@@ -85,5 +83,8 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 			- for tH = 30-120, R1=120/.7939/1000/1e-6/1e3 = 37-151k
 			- for tL = 540-1800, R2=1800/.693/1000/1e-6/1e6 = 0.78-2.6M
 			- commonly seen is 1M RM065
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="IoX1kJOR"></script>
 
 <div class="fb-comments" data-href="{{ page.url | relative_url }}" data-width="" data-numposts="5"></div>
