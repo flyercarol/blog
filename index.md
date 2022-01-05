@@ -1,4 +1,5 @@
 Experimenting with raspberry pi and arduino(esp) based AIoT!
-Making scientific instrumenst more accessible to public =)
+Revive scientific instruments and make them more accessible to public =)
 
 Feel free to visit around and buy me a coffee!
+[About me](https://flyercarol.github.io/)
