@@ -1,3 +1,8 @@
+---
+tags: [relay, power, timer]
+mathjax: true
+---
+
 # NE555 timer circuit as external relay
 Everyone must have come across power budget issue when trying to deploy our project in non-mains/utility power environment.
 Solar powered is usually the first thing that came into mind, but the next one is how to reduce the overall power consumption.
