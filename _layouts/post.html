@@ -13,8 +13,10 @@ layout: default
       </time>
       {% assign author = page.author | default: site.author %}
       {%- if author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">{{ author }}</span></span>
+      {%- endif -%}
+    </p>
   </header>
 
   <div class="share-links">
@@ -22,9 +24,18 @@ layout: default
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {: style="text-align: justify" }{{ content }}    
+    <div style="text-align: justify">
+      {{ content }}
+    </div>
     {% include navlinks.html %}
-  </div>  
+  </div>
+
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0"
+    nonce="IoX1kJOR"></script>
+
+  <div class="fb-comments" data-href="{{ page.url }}" data-width="" data-numposts="5"></div>
+
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
