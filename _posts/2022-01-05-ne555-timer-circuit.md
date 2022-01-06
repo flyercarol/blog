@@ -1,5 +1,5 @@
 ---
-tags: [relay, power, timer]
+tags: [relay, power]
 mathjax: true
 ---
 
@@ -31,7 +31,7 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 - Timing is controlled by capacitor, resistor and diode
   - Capacitor stores the charges to be released
   - Resistor spends/dissipates the charges, or limit the charging speed of capacitor
-  - Diode allows the ON time to be smaller than OFF time ($$t_ON < t_OFF$$)
+  - Diode allows the ON time to be smaller than OFF time ($t_ON < t_OFF$)
     - If diode is not included in the circuits, this would form an astable circuit with ON time > OFF time
 
 # Implementation
