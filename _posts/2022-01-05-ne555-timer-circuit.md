@@ -34,7 +34,9 @@ Latex test
 $t_ON < t_OFF$
 $$t_ON < t_OFF$$
 \\t_ON < t_OFF\\
-\\\theta_0=123*oiu^23\\
+\\ \theta_0=123*oiu^23\\
+$ \theta_{012} = \gamma $
+$$ \theta_{012} = \gamma $$
 
 
 # Wiring
@@ -42,7 +44,7 @@ $$t_ON < t_OFF$$
 - Timing is controlled by capacitor, resistor and diode
   - Capacitor stores the charges to be released
   - Resistor spends/dissipates the charges, or limit the charging speed of capacitor
-  - Diode allows the ON time to be smaller than OFF time ($t_ON < t_OFF$)
+  - Diode allows the ON time to be smaller than OFF time ($t_{ON} < t_{OFF}$)
     - If diode is not included in the circuits, this would form an astable circuit with ON time > OFF time
 ![](2022-01-06-17-03-26.png)
 
