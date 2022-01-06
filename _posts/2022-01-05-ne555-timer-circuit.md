@@ -26,17 +26,8 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 - Diode 1N5819 / 1N4007
 - Capacitor
 
-![](2022-01-06-17-00-49.png)
+<img src='/images/2022-01-06-17-00-49.png'>
 
-Latex test
-($t_ON < t_OFF$)
-($$t_ON < t_OFF$$)
-$t_ON < t_OFF$
-$$t_ON < t_OFF$$
-\\t_ON < t_OFF\\
-\\ \theta_0=123*oiu^23\\
-$ \theta_{012} = \gamma $
-$$ \theta_{012} = \gamma $$
 
 
 # Wiring
