@@ -26,14 +26,6 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 - Diode 1N5819 / 1N4007
 - Capacitor
 
-- <img src='/blog/images/2022-01-06-17-00-49.png'>
-
-
-<img src='/blog/images/2022-01-06-17-00-49.png'>
-
-
-<img src='\blog\images\2022-01-06-17-00-49.png'>
-
 # Wiring
 - Basically we are using NE555 as a timing device, which sends a trigger signal to the MOSFET/BJT.
 - Timing is controlled by capacitor, resistor and diode
@@ -41,8 +33,7 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
   - Resistor spends/dissipates the charges, or limit the charging speed of capacitor
   - Diode allows the ON time to be smaller than OFF time ($t_{ON} < t_{OFF}$)
     - If diode is not included in the circuits, this would form an astable circuit with ON time > OFF time
-![](2022-01-06-17-03-26.png)
-
+<img src='\blog\images\2022-01-06-17-03-26.png">
 
 # Implementation
 - Takes power up to 12 V, try placing this in front of buck converter and RS485
