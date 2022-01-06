@@ -28,8 +28,6 @@ Just in case you are unfamiliar with NE555, it seems like it is the most used IC
 
 <img src='/images/2022-01-06-17-00-49.png'>
 
-
-
 # Wiring
 - Basically we are using NE555 as a timing device, which sends a trigger signal to the MOSFET/BJT.
 - Timing is controlled by capacitor, resistor and diode
