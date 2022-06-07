@@ -58,12 +58,15 @@ C. 去監理站櫃檯辦理過戶
     備註：大型重型機車似乎需要驗煞車等性能
 
 
-<!-- <div style="text-align:center"> -->
+
 
 監理站驗車場
 
-<p align="center">
+<div style="text-align:center">
 <img src='https://imgur.com/ZjWerUh.jpg' width=50%>
+</div>
+
+<div style="text-align:center">
 <img src='https://imgur.com/dINtusi.jpg' width=50%>
 </p>
 
