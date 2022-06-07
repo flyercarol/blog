@@ -62,23 +62,24 @@ C. 去監理站櫃檯辦理過戶
 
 監理站驗車場
 
-<div style="text-align:center">
-<img src='https://imgur.com/ZjWerUh.jpg' width=50%>
-</div>
+<p align="center" width=50%>
+<img src='https://imgur.com/ZjWerUh.jpg'>
+</p>
 
-<div style="text-align:center">
-<img src='https://imgur.com/dINtusi.jpg' width=50%>
+<p align="center" width=50%>
+<img src='https://imgur.com/dINtusi.jpg'>
 </p>
 
 監理站自助機台
 
-<img src='https://imgur.com/pVLWW7F.jpg' width=50%>
-
+<p align="center" width=50%>
+<img src='https://imgur.com/pVLWW7F.jpg'>
+</p>
 
 監理站自助機台畫面
 
-<p align="center">
-<img src='https://imgur.com/SIgKnk6.jpg' width=50%>
+<p align="center" width=50%>
+<img src='https://imgur.com/SIgKnk6.jpg'>
 </p>
 
 驗車+過戶單
@@ -102,7 +103,7 @@ C. 去監理站櫃檯辦理過戶
 『電子式強制險』轉讓單
 
 <p align="center" width="50%">
-<img src='https://imgur.com/KZBs7p2.jpg' >
+<img src='https://imgur.com/KZBs7p2.jpg'>
 </p>
 
 **步驟C：**
@@ -120,7 +121,7 @@ C. 去監理站櫃檯辦理過戶
 # 後記
 
 恭喜成功過戶機車，以下有一些可能要注意的：
-- 過戶的 $ $ $ $
+- 過戶的$$$$
 - 將機車所有鑰匙交給對方，銀貨兩訖
 - 修改之前po的售賣文、告知排隊的潛在買家
 - 取消掛在機車的**任意險** ，退款可小省一筆
