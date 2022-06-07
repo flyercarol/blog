@@ -72,9 +72,8 @@ C. 去監理站櫃檯辦理過戶
 
 監理站自助機台
 
-<p align="center">
 <img src='https://imgur.com/pVLWW7F.jpg' width=50%>
-</p>
+
 
 監理站自助機台畫面
 
