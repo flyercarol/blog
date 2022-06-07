@@ -78,15 +78,16 @@ C. 去監理站櫃檯辦理過戶
 
 監理站自助機台畫面
 
+<p align="center">
 <img src='https://imgur.com/SIgKnk6.jpg' width=50%>
-
+</p>
 
 驗車+過戶單
 
-<img src='https://imgur.com/ny0uLla.jpg' width=50%>
+<p align="center" width=50%>
+<img src='https://imgur.com/ny0uLla.jpg'>
+</p>
 
-<!-- </p> -->
-</div>
 
 **步驟B：**
 
