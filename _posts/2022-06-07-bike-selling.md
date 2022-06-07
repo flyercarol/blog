@@ -3,6 +3,8 @@ tags: [motorbike, sale]
 ---
 
 ## 機車過戶詳情
+
+
 - 之前參考網頁 [公路總局](https://www.thb.gov.tw/page?node=1771eb57-6360-4987-bc92-ed6bf3eebbf4)
 
 最近自己去辦理機車過戶，上PTT bikershop成功賣出陪伴8年的布嚕嚕機車，在人生中第一次過戶的經驗，在板橋監理站真的算蠻順利，但程序跟上面網頁有點出入，來分享一下目前的辦理情形與手續。
@@ -17,7 +19,9 @@ tags: [motorbike, sale]
 4. 強制汽車責任保險證（有效期間應在30日以上，並請先至保險公司變更為新車主名稱或依規定辦理權益移轉）
     - 可以直接辦理，無需那麼麻煩
 
+
 # 2022.06 更新資訊
+
 前面其實很多說明都有點變化，但之前搜尋都沒看到什麼更新的資訊。
 
 以2022年6月份辦理的經驗而言，只需要準備以下的東西：
@@ -29,11 +33,13 @@ tags: [motorbike, sale]
 前面提到的 過戶登記書和強制險，已經有新的辦法，卻都沒提到。
 
 **基本上，要去過戶，除了帶上述三寶，還要先進行2個步驟。**
+
 A. 去監理站驗車 （請避開中午休息時間）
 B. 填寫『電子式強制險』轉讓單
 C. 去監理站櫃檯辦理過戶
 
 **步驟A: 5年以上的車要去監理站驗車 （中午休息）**
+
 - 過戶用免費，無需另外付款
 - 這個不是一般驗排氣的，如果當年度還沒做排氣檢驗
   - 記得一定要先去完成 （4-6月）
@@ -52,19 +58,21 @@ C. 去監理站櫃檯辦理過戶
     備註：大型重型機車似乎需要驗煞車等性能
 
 監理站驗車場
-<img src='https://imgur.com/ZjWerUh'>
-<img src='https://imgur.com/dINtusi'>
+<img src='https://imgur.com/ZjWerUh.jpg'>
+<img src='https://imgur.com/dINtusi.jpg'>
 
 監理站自助機台
-<img src='https://imgur.com/pVLWW7F'>
+<img src='https://imgur.com/pVLWW7F.jpg'>
 
 監理站自助機台畫面
-<img src='https://imgur.com/SIgKnk6'>
+<img src='https://imgur.com/SIgKnk6.jpg'>
 
 驗車+過戶單
-<img src='https://imgur.com/ny0uLla'>
+<img src='https://imgur.com/ny0uLla.jpg'>
+
 
 **步驟B：**
+
 - 去監理站櫃檯抽號碼牌
 - 監理站會提供『電子式強制險』轉讓單
 	- 直接過戶給新車主
@@ -73,9 +81,11 @@ C. 去監理站櫃檯辦理過戶
 	- 否則請新車主先上網投保（如果自己有心儀的保險公司）
 
 『電子式強制險』轉讓單
-<img src='https://imgur.com/KZBs7p2'>
+<img src='https://imgur.com/KZBs7p2.jpg'>
+
 
 **步驟C：**
+
 - 填妥從步驟A拿到的驗車+過戶單
   - 上面會填寫新車主的所有資訊
 - 雙方的雙證件+印章交給櫃檯
@@ -85,7 +95,9 @@ C. 去監理站櫃檯辦理過戶
 - 退還雙方證件+印章
 - 發新的行照
 
+
 # 後記
+
 恭喜成功過戶機車，以下有一些可能要注意的：
 - 過戶的$$$$
 - 將機車所有鑰匙交給對方，銀貨兩訖
