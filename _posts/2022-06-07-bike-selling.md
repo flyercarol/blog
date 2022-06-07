@@ -57,19 +57,21 @@ C. 去監理站櫃檯辦理過戶
     
     備註：大型重型機車似乎需要驗煞車等性能
 
-<!-- <p align="center"> -->
-<div style="text-align:center">
+
+<!-- <div style="text-align:center"> -->
 
 監理站驗車場
 
+<p align="center">
 <img src='https://imgur.com/ZjWerUh.jpg' width=50%>
 <img src='https://imgur.com/dINtusi.jpg' width=50%>
-
+</p>
 
 監理站自助機台
 
+<p align="center">
 <img src='https://imgur.com/pVLWW7F.jpg' width=50%>
-
+</p>
 
 監理站自助機台畫面
 
@@ -115,7 +117,7 @@ C. 去監理站櫃檯辦理過戶
 # 後記
 
 恭喜成功過戶機車，以下有一些可能要注意的：
-- 過戶的$$$$
+- 過戶的 $$ $$
 - 將機車所有鑰匙交給對方，銀貨兩訖
 - 修改之前po的售賣文、告知排隊的潛在買家
 - 取消掛在機車的**任意險** ，退款可小省一筆
