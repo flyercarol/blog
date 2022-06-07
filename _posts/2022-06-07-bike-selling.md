@@ -19,7 +19,7 @@ tags: [motorbike, sale]
 4. 強制汽車責任保險證（有效期間應在30日以上，並請先至保險公司變更為新車主名稱或依規定辦理權益移轉）
     - 可以直接辦理，無需那麼麻煩
 
-
+---
 # 2022.06 更新資訊
 
 前面其實很多說明都有點變化，但之前搜尋都沒看到什麼更新的資訊。
@@ -57,19 +57,29 @@ C. 去監理站櫃檯辦理過戶
     
     備註：大型重型機車似乎需要驗煞車等性能
 
+<p align="center">
+
 監理站驗車場
-<img src='https://imgur.com/ZjWerUh.jpg'>
-<img src='https://imgur.com/dINtusi.jpg'>
+
+<img src='https://imgur.com/ZjWerUh.jpg' width=50%>
+<img src='https://imgur.com/dINtusi.jpg' width=50%>
+
 
 監理站自助機台
-<img src='https://imgur.com/pVLWW7F.jpg'>
+
+<img src='https://imgur.com/pVLWW7F.jpg' width=50%>
+
 
 監理站自助機台畫面
-<img src='https://imgur.com/SIgKnk6.jpg'>
+
+<img src='https://imgur.com/SIgKnk6.jpg' width=50%>
+
 
 驗車+過戶單
-<img src='https://imgur.com/ny0uLla.jpg'>
 
+<img src='https://imgur.com/ny0uLla.jpg' width=50%>
+
+</p>
 
 **步驟B：**
 
@@ -80,9 +90,13 @@ C. 去監理站櫃檯辦理過戶
 	- 低於3個月可以在監理站周圍找推銷人員直接辦理
 	- 否則請新車主先上網投保（如果自己有心儀的保險公司）
 
-『電子式強制險』轉讓單
-<img src='https://imgur.com/KZBs7p2.jpg'>
+<p align="center">
 
+『電子式強制險』轉讓單
+
+<img src='https://imgur.com/KZBs7p2.jpg' width=50%>
+
+</p>
 
 **步驟C：**
 
@@ -95,7 +109,7 @@ C. 去監理站櫃檯辦理過戶
 - 退還雙方證件+印章
 - 發新的行照
 
-
+---
 # 後記
 
 恭喜成功過戶機車，以下有一些可能要注意的：
